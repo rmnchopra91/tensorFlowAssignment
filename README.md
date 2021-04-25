@@ -3,4 +3,9 @@ Week 1 study materials:
 2) TensorFlow.org
 3) youtube.com/tensorflow
 4) http://playground.tensorflow.org.
-5) 
+
+Week2
+
+Week3:
+1) Conv2D API URL: https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D
+2) MaxPool2D API URL: https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D
