@@ -9,3 +9,4 @@ Week2
 Week3:
 1) Conv2D API URL: https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D
 2) MaxPool2D API URL: https://www.tensorflow.org/api_docs/python/tf/keras/layers/MaxPool2D
+3) Convolution wikipedia link: https://en.wikipedia.org/wiki/Kernel_(image_processing)
